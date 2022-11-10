@@ -1,0 +1,11 @@
+TITLE 
+UNIVERSITY  STUDENT ELECTION SYSTEM USING FACE RECOGNITION 
+
+IDEAL SITUATION  
+On ideal situation system will work using camera that will be used to identify the face and compare to the saved one in the system if it’s the same then the system will allow the user to vote for the leader of the university 
+
+PROBLEM IT’S GOING TO BE SOLVED 
+The problem we are going to solve is the problem of one person to vote for other person if he/she access someone account so this will add security to the system.
+
+  REALITY SYSTEM 
+ The current system work in such a way that it uses only ssthe username and password then after vote you will not vote again that it takes you to the result and that is only site which you can access after vote.
